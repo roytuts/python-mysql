@@ -1,1 +1,1 @@
-You can read tutorial https://www.roytuts.com/call-stored-procedure-using-python/
+You can read tutorial https://roytuts.com/call-stored-procedure-using-python/
